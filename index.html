@@ -1,0 +1,33 @@
+<html>
+  <head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.6.1/p5.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.6.1/addons/p5.dom.min.js"></script>
+    <script src="sketch.js"></script>
+    <script src="NeuralNetwork/matrix.js"></script>
+    <script src="NeuralNetwork/NeuralNetwork.js"></script>
+    <script src="mnist.js"></script>
+  </head>
+    <title>MNIST - Neural NeuralNetwork</title>
+    <style>
+        button:focus { outline-style: none; }
+        .btn{
+          padding: 0px;
+          border-radius: 15px;
+          background-color: black;
+          width: 100px;
+          height: 50px;
+          color:#FFF
+        }
+
+        .btn:hover{
+          background-color: #AAA;
+        }
+
+        .btn:disabled{
+          background-color: #444;
+        }
+    </style>
+  <body>
+    <div id="container"></div>
+  </body>
+</html>
