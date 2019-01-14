@@ -1,4 +1,4 @@
-# DFF Neural Network -  MNIST Dataset
+# Machine Learning -  MNIST Dataset
 
 It's a machine learning example made with a [Deep Feedfoward Neural Network](https://github.com/JBezerra/deep-Feedfoward-Neural-Network/) using [MNIST Dataset](http://yann.lecun.com/exdb/mnist/)
 
