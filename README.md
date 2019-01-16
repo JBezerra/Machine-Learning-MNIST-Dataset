@@ -4,7 +4,7 @@ It's a machine learning example made with a [Deep Feedfoward Neural Network](htt
 
 ![mnist](https://media.giphy.com/media/24FIhSCqGG1v7et28T/giphy.gif)
 
-[Click here and try by yourself](https://jbezerra.github.io/Machine-Learning-MNIST-Dataset/)
+<!--- [Click here and try by yourself](https://jbezerra.github.io/Machine-Learning-MNIST-Dataset/) --->
 
 ## Usage
 
